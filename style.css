@@ -1,0 +1,48 @@
+body {
+    background-image: url(4.jpg);
+    background-size: 100%;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3#hello {
+    color: midnightblue;
+    font-size: 50px
+}
+
+div.conten_1 {
+    width: 100%;
+    display: inline-block;
+    background: lightgray;
+}
+
+div.conten_11 {
+    color: #df0db2;
+}
+
+}
+div.conten_2 {
+    color: gray;
+
+}
+
+p.quote {
+    padding: 10px;
+    background-color: #df0c0c;
+}
+
+p.quote small.quote_author {
+    color: #1726df;
+    navbutton_background_color: chocolate;
+}
+
+div.conten_3 {
+    width: 100%;
+}
+div.conten_4 {
+    border: 4px double black; /* Параметры границы */
+    background: #8497a8; /* Цвет фона */
+    padding: 1px; /* Поля вокруг текста */
+    display: inline-block
+
+}
